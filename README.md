@@ -1,16 +1,12 @@
-# World Khan 🎨
- World Khan é um repositorio onde tem Scripts de **Khan Academy** em diversas cores. Alguns está em desencolvimentos ainda, As cores variam de acordo com o nome em Inglês. 
+# 🌎 World Khan 🎨
 
-# Como funciona ❓️
- Copie o BookMarklet de algum Script desejado.
- 
- Crie uma aba/guia e salve como favoritos.
+ Central de scripts/bookmarklets da **Khan Academy** com temas e cores diferentes.
+Aqui você encontra scripts visuais (dark, blue, etc.) que mudam a aparência da Khan Academy.
+Alguns ainda estão em desenvolvimento. 
 
- Cole o BookMarklet na URL e escolha um nome de sua preferência .
- 
- Agora é so entrar no Site do Khan Academy e usar.
+# 📦 O que tem no repositório
 
-# KhanBlue 💙( Mais Desenvolvido )
-
-
+• 🎨 Scripts por cores/temas
+• 🌙 Modo escuro (Dark)
+• 🚧 Novos temas em progresso
 
