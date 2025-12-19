@@ -7,8 +7,12 @@ Alguns ainda estão em desenvolvimento.
 # 📦 O que tem no repositório
 
 • 🎨 Scripts por cores/temas
+
 • 🌙 Modo escuro (Dark)
+
 • 🚧 Novos temas em progresso
+
+• 🕯 Scripts Automáticos
 
 # ⚙️ Como usar
 
