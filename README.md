@@ -35,3 +35,7 @@ Alguns ainda estão em desenvolvimento.
 🌑 KhanDark(Em Manutenção)
 
 ❤️ KhanRed(Estável)
+
+# 📌 Contribuições
+
+Sugestões e melhorias são bem-vindas.
