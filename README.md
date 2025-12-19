@@ -32,4 +32,6 @@ Alguns ainda estão em desenvolvimento.
 
 💙 KhanBlue(Mais trabalhado)
 
-🌑 KhanDark(Ajustando)
+🌑 KhanDark(Em Manutenção)
+
+❤️ KhanRed(Estável)
