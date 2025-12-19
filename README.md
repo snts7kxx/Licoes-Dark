@@ -9,3 +9,8 @@
  Cole o BookMarklet na URL e escolha um nome de sua preferência .
  
  Agora é so entrar no Site do Khan Academy e usar.
+
+# KhanBlue 💙( Mais Desenvolvido )
+
+
+
