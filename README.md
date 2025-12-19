@@ -36,6 +36,15 @@ Alguns ainda estão em desenvolvimento.
 
 ❤️ KhanRed(Estável)
 
+# ⚠️ Avisos
+
+- Projeto não desenvolvido por mim.
+- Use por sua conta e risco.
+- Os Scripts podem parar caso a plataforma mude algo.
+
 # 📌 Contribuições
 
 Sugestões e melhorias são bem-vindas.
+
+# KhanBlue 💙
+
