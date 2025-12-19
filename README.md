@@ -27,3 +27,9 @@ Alguns ainda estão em desenvolvimento.
 5- Entre no site da Khan Academy
 
 6- Clique no favorito e pronto
+
+# 🚀 Temas disponíveis
+
+💙 KhanBlue(Mais trabalhado)
+
+🌑 KhanDark(Ajustando)
