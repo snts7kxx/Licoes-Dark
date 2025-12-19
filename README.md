@@ -13,8 +13,13 @@ Alguns ainda estão em desenvolvimento.
 # ⚙️ Como usar
 
 1- Copie o Bookmarklet do script desejado
+
 2- Crie um favorito no navegador
+
 3- Cole o código do script no campo URL
+
 4- Dê um nome pro favorito
+
 5- Entre no site da Khan Academy
-6-Clique no favorito e pronto
+
+6- Clique no favorito e pronto
