@@ -1,5 +1,5 @@
 # World Khan 🎨
- World Khan é um repositorio onde tem Scripts de Khan Academy em diversas cores. Alguns está em desencolvimentos ainda, As cores variam de acordo com o nome em Inglês. 
+ World Khan é um repositorio onde tem Scripts de **Khan Academy** em diversas cores. Alguns está em desencolvimentos ainda, As cores variam de acordo com o nome em Inglês. 
 
 # Como funciona ❓️
  Copie o BookMarklet de algum Script desejado.
